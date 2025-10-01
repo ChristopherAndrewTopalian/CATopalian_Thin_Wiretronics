@@ -3,6 +3,26 @@ A fun and efficient and inexpensive way to make Electronic circuits using thin w
 
 Dedicated to God the Father
 
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_001.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_002.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_003.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_004.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_005.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_006.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_007.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_008.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_009.png)
+
+![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_010.png)
+
 ---
 
 How to Download this Tutorial
