@@ -3,6 +3,10 @@ A fun and efficient and inexpensive way to make Electronic circuits using thin w
 
 Dedicated to God the Father
 
+---
+
+Video: https://www.youtube.com/watch?v=5rzEsbzR8qM
+
 ![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_001.png)
 
 ![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_002.png)
