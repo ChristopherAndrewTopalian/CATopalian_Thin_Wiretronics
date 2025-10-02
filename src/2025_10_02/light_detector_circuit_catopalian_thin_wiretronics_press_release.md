@@ -2,6 +2,14 @@
 
 VIDEO: https://www.youtube.com/watch?v=dgLxeJavxxo
 
+---
+
+![Light Detector Circuit - Shown Completely](Light_Detector_Circuit.png)
+
+---
+
+![Light Detector Circuit - Shown Closer](Light_Detector_Circuit_Shown_Closer.png)
+
 In this video, we build a light detector circuit using the CATopalian Thin Wiretronics twist tie method. This circuit uses ultra-thin strands of speaker wire to connect the components together, creating a unique and minimal wiring style.
 
 The circuit uses a PNP 3906 transistor, a 1k resistor and an LDR on the base, with the collector tied to the positive rail. The emitter is connected to a 150 ohm resistor and a green LED. Powered by two D batteries (~3V), the LED lights up when light is detected and turns off in the dark.

@@ -31,6 +31,10 @@ Video: https://www.youtube.com/watch?v=5rzEsbzR8qM
 
 ---
 
+# Light Detector Circuit
+
+![Light Detector Circuit](src/2025_10_02/Light_Detector_Circuit.png)
+
 [Light Detector Circuit CATopalian Thin Wiretronics Press Release](src/2025_10_02/light_detector_circuit_catopalian_thin_wiretronics_press_release.md)
 
 Video: https://www.youtube.com/watch?v=dgLxeJavxxo
