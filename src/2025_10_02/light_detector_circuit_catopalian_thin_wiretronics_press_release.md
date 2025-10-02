@@ -12,7 +12,7 @@ Don’t twist too tight, or the wire will snap.
 
 Don’t crimp the wire if possible because the wire is fragile and will likely break from crimping.
 
-But if you do crimp it at all, use gentle force with smooth needle nose pliers. To say again though, better to wrap it tight and good than to break the wire with a crimp.
+But if you do crimp it at all, use gentle force with smooth needle nose pliers. To say again though, better to wrap it tight and good than to break the wire with a hard crimp.
 
 For the power connection, we use paperclips and neodymium magnets to wedge the thin wire securely against the battery terminals, ensuring a strong connection without soldering.
 
