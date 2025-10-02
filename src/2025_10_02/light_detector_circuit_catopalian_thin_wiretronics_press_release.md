@@ -8,9 +8,9 @@ The circuit uses a PNP 3906 transistor, a 1k resistor and an LDR on the base, wi
 
 We use the twist tie method with fragile copper strands from speaker wire. Two important tips:
 
-don’t twist too tight, or the wire will snap.
+Don’t twist too tight, or the wire will snap.
 
-don’t crimp the wire is possible because the wire is fragile and will likely break from crimping.
+Don’t crimp the wire if possible because the wire is fragile and will likely break from crimping.
 
 But if you do crimp it at all, use gentle force with smooth needle nose pliers. To say again though, better to wrap it tight and good than to break the wire with a crimp.
 
