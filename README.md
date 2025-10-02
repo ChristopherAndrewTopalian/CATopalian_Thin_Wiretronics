@@ -27,6 +27,9 @@ Video: https://www.youtube.com/watch?v=5rzEsbzR8qM
 
 ![2025-10-01-book](src/2025_10_01_book/CATopalian_Thin_Wiretronics_010.png)
 
+![2025-10-02](src/2025_10_02/CATopalian_Thin_Wiretronics_Transistor.png)
+
+
 ---
 
 How to Download this Tutorial
