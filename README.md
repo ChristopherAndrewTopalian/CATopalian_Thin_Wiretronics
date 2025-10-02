@@ -29,6 +29,10 @@ Video: https://www.youtube.com/watch?v=5rzEsbzR8qM
 
 ![2025-10-02](src/2025_10_02/CATopalian_Thin_Wiretronics_Transistor.png)
 
+---
+
+[Light Detector Circuit CATopalian Thin Wiretronics Press Release](src/2025_10_02/light_detector_circuit_catopalian_thin_wiretronics_press_release)
+
 
 ---
 
