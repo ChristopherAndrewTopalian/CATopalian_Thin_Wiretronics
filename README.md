@@ -39,6 +39,26 @@ Video: https://www.youtube.com/watch?v=5rzEsbzR8qM
 
 Video: https://www.youtube.com/watch?v=dgLxeJavxxo
 
+![Light Detector Circuit](src/2025_11_03/light_detector_circuit_001.png)
+
+## Light Detector - Raised Version
+Video: https://www.youtube.com/watch?v=CSqHYu_82k0
+
+## Light Detector Flat Version
+https://www.youtube.com/watch?v=_WBNGejH7c8
+
+---
+
+## LED Circuit
+https://www.youtube.com/watch?v=idQT6RFKEC0
+
+![led_circuit](src/2025_11_03/led_circuit.png)
+
+---
+
+## WATER DETECTOR CIRCUIT
+https://www.youtube.com/watch?v=80zo6exEhZ8
+
 
 ---
 
