@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=idQT6RFKEC0
 ## WATER DETECTOR CIRCUIT
 https://www.youtube.com/watch?v=80zo6exEhZ8
 
+![water_detector_001](src/2025_11_03/water_detector_001.png)
+
 
 ---
 
